@@ -1,0 +1,28 @@
+/* Media */
+
+img, .card-img {
+    border-radius: 50%;
+}
+
+.large {
+    font-size: x-large;
+}
+
+.modal-media {
+    margin: auto;
+    width: 18rem;
+}
+
+/* Info display */
+
+.accordion {
+    margin-top: 25px;
+}
+
+.card {
+    border: 0px;
+}
+
+.card-header {
+    background-color: white;
+}
